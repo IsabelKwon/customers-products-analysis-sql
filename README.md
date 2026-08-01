@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Customers and Products Analysis Using SQL
 
 ## About this project
@@ -34,4 +34,4 @@ Open `Analysis.ipynb` in VS Code (or Jupyter/Anaconda) and run the cells in orde
 with `pandas` and `sqlite3` (built into Python's standard library).
 =======
 # customers-products-analysis-sql
->>>>>>> 46f0b3982856997eb864e473e38158d6e41219bd
+
